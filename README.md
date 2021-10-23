@@ -1,4 +1,4 @@
-## 👨‍💻 Amit Dagar    [![alt text][3.1]](https://twitter.com/AMIT_DAGAR_1)  [![alt text ][2.1]](https://www.instagram.com/amitdagar311/)  [![alt text ][1.1]](https://www.linkedin.com/in/amit-dagar/)
+## 👨‍💻 Amit Dagar
 
 ### Working full-time on [Wilyer](https://wilyer.com).
 
