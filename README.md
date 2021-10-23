@@ -4,8 +4,6 @@
 
 
 [1.1]: https://www.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-32.png (linked icon with padding)
-[2.1]: https://www.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-32.png (insta icon with padding)
-[3.1]: https://www.iconfinder.com/data/icons/social-media-2285/512/1_Twitter_colored_svg-32.png (twitter icon with padding)
 
 
 ![Amit-Dagar's Github](https://github-readme-stats-three-lac.vercel.app/api?username=Amit-Dagar&bg_color=45,00dcff,0017ff&title_color=fff&text_color=fff&show_icons=true&theme=radical&&count_private=true)
