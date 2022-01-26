@@ -3,13 +3,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amit-Dagar" alt="Amit-Dagar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/AMIT_DAGAR_1" target="blank"><img src="https://img.shields.io/twitter/follow/AMIT_DAGAR_1?logo=twitter&style=for-the-badge" alt="AMIT_DAGAR_1" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://linkedin.com/in/amit-dagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-dagar" height="30" width="40" /></a>
+[![Linkedin Badge](https://img.shields.io/badge/-Adarsh%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-tiwari-333487189/)](https://www.linkedin.com/in/amit-dagar/)
+[![Gmail Badge](https://img.shields.io/badge/-adarshtiwari532000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adarshtiwari532000@gmail.com)](mailto:amitdagar4096@gmail.com) 
+
 </p>
 
 <br/>
