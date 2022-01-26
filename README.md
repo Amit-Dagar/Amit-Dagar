@@ -1,13 +1,18 @@
-<!-- Connect with me -->
-<br>
-<div >
-<h2 align='left'> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> </h2>
-<p align='left'>
-<a href = 'https://www.linkedin.com/in/amit-dagar/'> <img width = '35px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-</p>
-</div>
-<br>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/amit-dagar/">Amit Dagar</a> </h1>
+<h3 align="center">A passionate Full-Stack Web Developer</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amit-Dagar" alt="Amit-Dagar" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/AMIT_DAGAR_1" target="blank"><img src="https://img.shields.io/twitter/follow/AMIT_DAGAR_1?logo=twitter&style=for-the-badge" alt="AMIT_DAGAR_1" /></a> </p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://linkedin.com/in/amit-dagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amit-dagar" height="30" width="40" /></a>
+</p>
+
+<br/>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -37,28 +42,8 @@
 
 <br/>
 
+<p><img align="left" style="height:400px;width:300px;display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit-Dagar&show_icons=true&locale=en&theme=tokyonight" alt="Amit-Dagar" /></p>
 
+<p>&nbsp;<img align="right"  style="display:inline-block"  src="https://github-readme-stats.vercel.app/api?username=Amit-Dagar&show_icons=true&locale=en&theme=tokyonight" alt="Amit-Dagar" /></p>
 
-<div align="center">
-	<h1 align="center">My Github Stats</h1>
-</div>
-<br/>
-
-<div align="left">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amit-Dagar&show_icons=true&theme=dracula" alt="Amit-Dagar" />
-</div>
-<br/>
-
-<div align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit-Dagar&show_icons=true&theme=dark&locale=en&layout=compact" alt="amitdagar" />
-</div>
-<br/>
-
-
-<div align="left">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Dagar&theme=shades-of-purple" alt="Amit-Dagar" />
-</div>
-
-<br/>
-
-[![Amit Dagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amit-Dagar&theme=react-dark)](https://github.com/Amit-Dagar/github-readme-activity-graph)
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Dagar&theme=tokyonight" alt="Amit-Dagar" /></p>
