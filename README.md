@@ -4,15 +4,23 @@
 
 
 
-![Amit-Dagar's Github](https://github-readme-stats-three-lac.vercel.app/api?username=Amit-Dagar&bg_color=45,00dcff,0017ff&title_color=fff&text_color=fff&show_icons=true&theme=radical&&count_private=true)
 
-## Working on Open Source Learning Resources  @[WilyerEngineering](https://github.com/WilyerEngineering)
-Website : [Wilyer Engineering Learn ](https://wilyerengineering.github.io/learn/)
+<h1 align="center">Let's Get Connected</h1>
 
-[![Wilyer Engineering Learn Repo Card](https://github-readme-stats-three-lac.vercel.app/api/pin/?username=WilyerEngineering&repo=learn&theme=radical&bg_color=4,0017ff,00dcff&title_color=fff&text_color=fff)](https://github.com/WilyerEngineering/learn)
+<div align="center">
+   
+   <h1 align="center">My Github Stats</h1>
 
+<table>
+  <tr>
+     <td><img align="center" src="https://github-readme-stats.vercel.app/api?username=Amit-Dagar&show_icons=true&theme=dracula" alt="Amit-Dagar" /></td>
+     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit-Dagar&show_icons=true&theme=dark&locale=en&layout=compact" alt="amitdagar" /></td>
+  </tr>
+</table>
+   
+   <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Dagar&theme=shades-of-purple" alt="Amit-Dagar" />
+   </div>
 
-I’m currently learning Django, Flutter, JavaScript, Android Dev, DevOps anything that needs to done to transform my idea to product.
-
-![Top Langs](https://github-readme-stats-three-lac.vercel.app/api/top-langs/?username=Amit-Dagar&hide=html&theme=radical&count_private=true)
-
+ [![Amit Dagar's github activity graph](https://activity-graph.herokuapp.com/graph?username=Amit-Dagar&theme=react-dark)](https://github.com/Amit-Dagar/github-readme-activity-graph)
+   
