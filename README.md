@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Adarsh%20Tiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adarsh-tiwari-333487189/)](https://www.linkedin.com/in/amit-dagar/)
-[![Gmail Badge](https://img.shields.io/badge/-adarshtiwari532000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adarshtiwari532000@gmail.com)](mailto:amitdagar4096@gmail.com) 
+[![Linkedin Badge](https://img.shields.io/badge/-Amit%20Dagar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amit-dagar)](https://www.linkedin.com/in/amit-dagar/)
+[![Gmail Badge](https://img.shields.io/badge/-amitdagar4096@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adarshtiwari532000@gmail.com)](mailto:amitdagar4096@gmail.com) 
 
 </p>
 
