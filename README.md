@@ -43,8 +43,6 @@
 
 <br/>
 
-<p><img align="left" style="height:400px;width:300px;display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amit-Dagar&show_icons=true&locale=en&theme=tokyonight" alt="Amit-Dagar" /></p>
 
-<p>&nbsp;<img align="right"  style="display:inline-block"  src="https://github-readme-stats.vercel.app/api?username=Amit-Dagar&show_icons=true&locale=en&theme=tokyonight" alt="Amit-Dagar" /></p>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Amit-Dagar&theme=tokyonight" alt="Amit-Dagar" /></p>
